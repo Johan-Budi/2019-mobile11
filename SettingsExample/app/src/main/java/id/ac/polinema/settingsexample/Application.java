@@ -4,7 +4,7 @@ import android.content.SharedPreferences;
 
 import androidx.preference.PreferenceManager;
 
-public class Application extends android.app.Application {
+public class    Application extends android.app.Application {
 
     private static SharedPreferences preferences;
 

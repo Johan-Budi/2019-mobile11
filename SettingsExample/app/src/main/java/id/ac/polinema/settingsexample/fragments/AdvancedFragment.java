@@ -25,6 +25,7 @@ public class AdvancedFragment extends Fragment {
 
     private SharedPreferences preferences;
 
+
     public AdvancedFragment() {
         // Required empty public constructor
     }
